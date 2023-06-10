@@ -10,9 +10,9 @@ Below is a short poem I wrote when I was stressed about my finals weeks ago - ho
 
 in debt
 
-`rgb(9, 105, 218)` to imagination 
+to imagination
 
-~~crawling back to
+~~crawling back to~~
 
 ~~the womb~~
 
@@ -20,6 +20,6 @@ of the universe
 
 and, I
 
-**should've become
+**should've become**
 
-an _Art major
+**an _Art major_**
